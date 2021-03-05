@@ -6,3 +6,6 @@ https://www.elastic.co/downloads/past-releases/kibana-7-11-1
 
 Logstash: optional
 https://www.elastic.co/downloads/past-releases/logstash-7-11-1
+
+Chrome extension: UI service status check & overview
+https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm
