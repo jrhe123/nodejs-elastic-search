@@ -1,0 +1,8 @@
+Elastic Search: Server
+https://www.elastic.co/downloads/past-releases/elasticsearch-7-11-1
+
+Kibana: UI
+https://www.elastic.co/downloads/past-releases/kibana-7-11-1
+
+Logstash: optional
+https://www.elastic.co/downloads/past-releases/logstash-7-11-1
